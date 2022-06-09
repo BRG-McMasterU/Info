@@ -35,4 +35,4 @@ Use of all digital assets contained within this repository must be done with exp
 Dr. Jonathan D. B. Bradley and/or the appointed primary contact.
 
 # Miscellaneous
-Title text art source: https://patorjk.com/software/taag/#p=display&f=Graceful&t=Official%20BRG%20Repository
+[Title text art source](https://patorjk.com/software/taag/#p=display&f=Sub-Zero&t=Official%20BRG%20Repository)
