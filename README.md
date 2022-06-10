@@ -9,7 +9,7 @@
 
 ### Just as we share knowledge in the physical world, so shall we share knowledge in the digital world!
 
-## Intended use
+## Intended Use
 TBD
 
 # Repository Rules
