@@ -7,12 +7,12 @@
                                                                                                                                                                                                                          
  ```
 
-## Just as we share knowledge in the physical world, so shall we share knowledge in the digital world!
+### Just as we share knowledge in the physical world, so shall we share knowledge in the digital world!
 
-# Intended use
+## Intended use
 TBD
 
-## Repository Rules
+# Repository Rules
 - Modifications to a Master branch must only be done in consensual agreement.
 - Use of any of the digital assets contained in this repository must be properly cited.
 - More?
@@ -34,5 +34,5 @@ Website • https://www.bradleyresearchgroup.ca/
 Use of all digital assets contained within this repository must be done with explicit permission of
 Dr. Jonathan D. B. Bradley and/or the appointed primary contact.
 
-# Miscellaneous
+### Miscellaneous
 [Title text art source](https://patorjk.com/software/taag/#p=display&f=Sub-Zero&t=Official%20BRG%20Repository)
