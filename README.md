@@ -13,9 +13,12 @@
 TBD
 
 # Repository Rules
+## General Rules
 - Modifications to a Master branch must only be done in consensual agreement.
 - Use of any of the digital assets contained in this repository must be properly cited.
 - More?
+## Internal Rules
+- Any incomplete code must include a clearly visibile Work-in-Progress (WIP) descritpor.
 
 # Contacts
 ## Repository Administrator
