@@ -17,7 +17,8 @@ TBD
 - Use of any of the digital assets contained in this repository must be properly cited.
 - More?
 ## Internal Rules
-- Any incomplete code must include a clearly visibile Work-in-Progress (WIP) descritpor.
+- Any incomplete code must include a clearly visibile Work-in-Progress (WIP) descriptor.
+- Forking of private repositories is only allowed with explicit perimission of Dr. Jonathan Bradley (**see contact below**).
 
 # Contacts
 ## Repository Administrator
@@ -29,7 +30,7 @@ TBD
 ## Secondary Contact
 	Name •
 	Email •
-## Owner
+## Repository Owner
 	Name • Dr. Jonathan D. B. Bradley
 	Email •
 Website • https://www.bradleyresearchgroup.ca/
