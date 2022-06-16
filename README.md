@@ -18,7 +18,7 @@ TBD
 - More?
 ## Internal Rules
 - Any incomplete code must include a clearly visibile Work-in-Progress (WIP) descriptor.
-- Forking of private repositories is only allowed with explicit perimission of Dr. Jonathan Bradley (_ _see contact below_ _).
+- Forking of private repositories is only allowed with explicit perimission of Dr. Jonathan Bradley (_see contact below_).
 
 # Contacts
 ## Repository Administrator
