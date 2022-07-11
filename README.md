@@ -35,6 +35,17 @@ TBD
 	Email •
 Website • https://www.bradleyresearchgroup.ca/
 
+# Helpful Guides
+
+## How to Setup the Command Line
+(Windows users: it is assumed you already have the [MinGW](https://osdn.net/projects/mingw/) shell)
+
+1. Download the [Github Client](https://cli.github.com/).
+1. You should now be able to use the `gh` commands. Try the following in the `cmd` shell (Command Prompt):
+```
+$ gh --version
+```
+
 # Legal
 
 Use of all digital assets contained within this repository must be done with explicit permission of
