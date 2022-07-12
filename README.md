@@ -41,7 +41,7 @@ Website • https://www.bradleyresearchgroup.ca/
 (Windows users: it is assumed you already have the [MinGW](https://osdn.net/projects/mingw/) shell)
 
 1. Download the [Github Client](https://cli.github.com/).
-1. You should now be able to use the `gh` commands. Try the following in the `cmd` shell (Command Prompt):
+1. You should now be able to use the `gh` commands. Try the following in the `cmd` shell (`Terminal` for Mac users):
 	```
 	$ gh --version
 	```
@@ -50,7 +50,7 @@ Website • https://www.bradleyresearchgroup.ca/
 	gh version 2.13.0 (2022-06-22)
 	https://github.com/cli/cli/releases/tag/v2.13.0
 	```
-1. To gain authentication, you need a personal access token, which can be obtained by running the following command (in the `cmd` shell):
+1. To gain authentication, you need a personal access token, which can be obtained by running the following command in the `cmd` shell (`Terminal` for Mac users):
 	```
 	$ gh auth token
 	```
@@ -61,6 +61,7 @@ Website • https://www.bradleyresearchgroup.ca/
 	$ git commit -m "..."
 	$ git push origin master
 	```
+	Note that for Windows users, these commands will be in `MinGW` and for Mac users, in `Terminal`.
 
 # Legal
 
